@@ -9,6 +9,7 @@ public class App {
 //		Hero h = new Hero(a, hc, p);
 		
 //agora usando o builder
+// conflito branch!!!!!!
 		Hero h = new Hero() .newBuilder()
 				.withArmor(new Armor())
 				.withHairColor(new HairColor())
